@@ -1,0 +1,12 @@
+### IDEA ###
+.idea/*
+*.iml
+*/target/*
+*/*.iml
+
+classes/*
+*/out/*
+
+.gradle/*
+# Project exclude paths
+/geek-flyweight/build/

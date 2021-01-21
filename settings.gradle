@@ -1,0 +1,13 @@
+rootProject.name = 'geek-design'
+include 'geek-alert'
+include 'geek-api-call-stats'
+include 'geek-factory'
+include 'geek-singleton'
+include 'geek-proxy'
+include 'geek-bridge'
+include 'geek-flyweight'
+include 'geek-demo'
+include 'geek-observer'
+include 'geek-state'
+include 'geek-iterator'
+
